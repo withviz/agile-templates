@@ -36,7 +36,7 @@ Create a new list in a Teams Channel with the following fields
 
 | User | User Story | Status | Priority | Acceptance Criteria |
 | :--| :--| :--| :--| :--| :--|
-|||||
+
 
 ### In PowerAutomate
 
