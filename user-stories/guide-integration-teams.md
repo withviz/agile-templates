@@ -35,14 +35,14 @@ Go to the most appropriate channel and add `lists` and `PowerAutomate`.
 Create a new list in a Teams Channel with the following fields
 
 | User | User Story | Status | Priority | Acceptance Criteria |
-| :--| :--| :--| :--| :--| :--|
-
+| :--| :--| :--| :--| :--|
+|||||
 
 ### In PowerAutomate
 
 Create a new flow with the following
 
-![power automate](./assets/powerautomate.png)
+![power automate](./assets/powerautomate.PNG)
 
 Details of the flow
 
