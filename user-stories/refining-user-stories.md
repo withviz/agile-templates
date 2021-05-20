@@ -60,7 +60,7 @@ A non-functional requirement could also be captured into a new user story added 
 
 Although not specifically stated by any user, such "non-functional" capabilities are simply expected as common sense, or sometimes they may be included by the product owner as something seen as design or security best practice.
 
-### Other "Grooming" Tasks
+### Other ways to refine
 Finally, it is worth noting that refining user stories is not only about sizing and splitting larger stories into smaller ones, but can also involve the following tasks:
 
 - Removing user stories that are no longer deemed relevant
